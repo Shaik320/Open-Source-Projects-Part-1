@@ -1,3 +1,5 @@
+# LGMVIP DATA SCIENCE INTERNSHIP
+# Author: Shaik Khaja Bee, Data Science Intern at LetsGrowMore
 # LGMVIP_TASK-4_Beginner_level
 # IMAGE TO PENCIL SKETCH WITH PYTHON:
 
